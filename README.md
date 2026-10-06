@@ -2,6 +2,10 @@
 
 A duck-themed RC car that is driven from any phone, tablet or laptop browser over Wi-Fi, designed as a playful, educational toy for children.
 
+<p align="center">
+  <a href="Duck-Mobile%20Poster.pdf"><img src="poster.png" alt="Duck-Mobile poster showing the finished car with a rubber duck on top" width="420"></a>
+</p>
+
 **Tech:** C++ (Arduino), ESP8266 (D1 Mini Lite), L298N motor driver, HTML/CSS
 
 **Context:** Course project at Saarland University. I handled the hardware assembly, firmware, web interface, testing and documentation.
